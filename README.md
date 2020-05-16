@@ -1,2 +1,2 @@
 # Home-Purchase-Scenarios
-Repo with home purchase scenarios model
+Ths repo houses the home purchase scenarios model.
