@@ -2,7 +2,9 @@
 Ths repo houses the home purchase scenarios model.
 
 # Summary
-This repo contains the home purchase scenarios model. [Additional details to follow].
+This repo has the home purchase scenarios model that goes with the Economics of Home Ownership Deep Dive post.
+
+Additional details on how to use this model can be found in the relevant posts that are linked to below.
 
 ---
 
