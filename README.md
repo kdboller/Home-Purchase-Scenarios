@@ -1,4 +1,4 @@
-# Home-Purchase-Scenarios
+# Economics-of-Home-Ownership-Deep-Dive
 Ths repo houses the home purchase scenarios model.
 
 # Summary
