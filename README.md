@@ -11,4 +11,4 @@ Additional details on how to use this model can be found in the relevant posts t
 ## Relevant posts where you can find the tutorial
 
 1. Medium: [to come]
-2. Personal blog:  [to come]
+2. Personal blog:  https://kdboller.github.io/2020/08/10/economics-home-ownership-deep-dive.html
